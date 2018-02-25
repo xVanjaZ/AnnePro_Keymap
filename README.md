@@ -1,5 +1,5 @@
 # AnnePro_Keymap
-My anne pro keymap from the DZ60(standard) layout on [http://www.qmkeyboard.cn/](http://www.qmkeyboard.cn/) <br />
+An Anne Pro keymap, ready to be flashed <br />
 I really like the Anne Pro keymap so I decided to flash my DZ60 with the same map
 
 ## Links: 
