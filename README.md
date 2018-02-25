@@ -1,6 +1,6 @@
-# DZ_60_AnnePro_Keymap
-My anne pro keymap for the DZ60(standard) <br />
-I made it because i'm really hooked to that layout
+# AnnePro_Keymap
+My anne pro keymap from the DZ60(standard) layout on [http://www.qmkeyboard.cn/](http://www.qmkeyboard.cn/) <br />
+I really like the Anne Pro keymap so I decided to flash my DZ60 with the same map
 
 ## Links: 
 QMK Toolbox:
@@ -10,4 +10,4 @@ QMK Firmware Builder:
 [http://www.qmkeyboard.cn/](http://www.qmkeyboard.cn/)
 
 ## Note:
-For some reason i had to change `\` with `backspace`. It was flipped
+I had to change `\` with `backspace`. It was flipped for some reason.
