@@ -12,6 +12,9 @@ QMK Firmware Builder:
 QMK Docs:
 [https://docs.qmk.fm](https://docs.qmk.fm)
 
+Keymap Screenshots:
+[https://imgur.com/a/Yh0tD](https://imgur.com/a/Yh0tD)
+
 ## Notes:
 Added extra RGB controlls: <br />
 * Press `FN + G` to decrease HUE <br />
