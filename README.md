@@ -9,5 +9,12 @@ QMK Toolbox:
 QMK Firmware Builder:
 [http://www.qmkeyboard.cn/](http://www.qmkeyboard.cn/)
 
-## Note:
+QMK Docs:
+[https://docs.qmk.fm](https://docs.qmk.fm)
+
+## Notes:
+Added extra RGB controlls: <br />
+⋅⋅* Press `g` to decrease HUE <br />
+⋅⋅* Press `h` to decrease brightness <br />
+<br />
 I had to change `\` with `backspace`. It was flipped for some reason.
