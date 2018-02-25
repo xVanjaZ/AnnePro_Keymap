@@ -16,5 +16,5 @@ QMK Docs:
 Added extra RGB controlls: <br />
 * Press `FN + G` to decrease HUE <br />
 * Press `FN + H` to decrease brightness <br />
-<br />
-I had to flip `backslash` with `backspace`. It was flipped for some reason.
+
+I had to flip `\` with `backspace`. It was flipped for some reason.
